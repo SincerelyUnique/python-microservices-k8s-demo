@@ -1,0 +1,14 @@
+python/src/auth/.idea
+python/src/auth/venv
+
+python/src/converter/.idea
+python/src/converter/venv
+
+python/src/gateway/.idea
+python/src/gateway/venv
+
+python/src/notification/.idea
+python/src/notification/venv
+
+python/src/rabbit/.idea
+python/src/rabbit/venv
